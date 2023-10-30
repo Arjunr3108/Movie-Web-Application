@@ -5,6 +5,7 @@
 body {
     background-color: #131720;
     font-family: sans-serif;
+    color: white;
 }
 
 h3 {
@@ -47,9 +48,8 @@ form {
 }
 
 input {
-    all: unset;
     font: 15px system-ui;
-    color: #fff;
+    color: black;
     height: 100%;
     width: 100%;
     padding: 5px;
