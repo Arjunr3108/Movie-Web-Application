@@ -1,5 +1,5 @@
 # Movie-Web-Application
-Live Demo at https://arjunr3108.github.io/Movie-Web-Application/.
+**Live Demo at https://arjunr3108.github.io/Movie-Web-Application/.**
 
 This is a Movie Web Applicatioin that shows popular and searched movies.
 
