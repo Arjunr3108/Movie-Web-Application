@@ -1,4 +1,4 @@
-1. Visit "https://arjunr3108.github.io/Movie-Web-Application" to view the live demo.
+1. Visit "https://arjunr3108.github.io/Movie_Web_Application" to view the live demo.
 
 2. This is a movie web application that lets you search for and view popular films.
 
